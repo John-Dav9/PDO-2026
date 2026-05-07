@@ -6,7 +6,7 @@
 const DB_CONNECT_TYPE = "mysql"; // MySQL et MariaDB
 const DB_CONNECT_HOST = "localhost"; // hôte local WAMP
 const DB_CONNECT_PORT = 3307;// port vers MariaDB
-const DB_CONNECT_NAME = "livreor_web1";// nom de la DB
+const DB_CONNECT_NAME = "livre_or1";// nom de la DB
 const DB_CONNECT_CHARSET = "utf8mb4";// encodage de notre connexion
 const DB_CONNECT_USER = "root";// login par défaut
 const DB_CONNECT_PWD = "";// pas de mot de passe par défaut
